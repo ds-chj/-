@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\stage3\Scripts\Misc\PlayerTankController.cs">
+    <Files>
+      <File FileName="Assets\script\stage3\Scripts\Tank\Wander.cs" Line="89" Column="3" />
+      <File FileName="Assets\script\stage3\PlayerBullet.cs" Line="31" Column="5" />
+      <File FileName="Assets\script\stage3\Scripts\Misc\PlayerTankController.cs" Line="65" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

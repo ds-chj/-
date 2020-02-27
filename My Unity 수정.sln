@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My Unity 수정", "Assembly-CSharp.csproj", "{87904E8C-EEFB-8FC1-A913-658E97A8E3CA}"
+EndProject
+Project("{77DDF508-A148-47D3-0523-DBA7E81AAC59}") = "My Unity 수정", "Assembly-UnityScript.unityproj", "{6E7C74FD-DF0E-5EED-E5FA-1D4E3BE0FDC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87904E8C-EEFB-8FC1-A913-658E97A8E3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87904E8C-EEFB-8FC1-A913-658E97A8E3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87904E8C-EEFB-8FC1-A913-658E97A8E3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87904E8C-EEFB-8FC1-A913-658E97A8E3CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E7C74FD-DF0E-5EED-E5FA-1D4E3BE0FDC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7C74FD-DF0E-5EED-E5FA-1D4E3BE0FDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7C74FD-DF0E-5EED-E5FA-1D4E3BE0FDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7C74FD-DF0E-5EED-E5FA-1D4E3BE0FDC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
